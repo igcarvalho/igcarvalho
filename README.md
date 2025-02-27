@@ -43,5 +43,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/snake.svg" alt="Snake animation" />
-
-###"# configura-o-perfil-github"  
+![Snake animation](https://github.com/igcarvalho/igcarvalho/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=igcarvalho&repo=igcarvalho&theme=react)](https://github.com/igcarvalho/igcarvalho)
