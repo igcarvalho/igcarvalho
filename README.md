@@ -1,4 +1,4 @@
-## Olá, Igor Carvalho aqui. ✋
+## Olá, Sou o Dev Igor Carvalho, sejam bem-vindos ao meu perfil!
 
 - Desenvolvedor FullStack, Brasil.
 
