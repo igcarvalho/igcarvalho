@@ -42,5 +42,5 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/igcarvalho/igcarvalho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/dist/github-contribution-grid-snake.svg)
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=igcarvalho&repo=igcarvalho&theme=react)](https://github.com/igcarvalho/igcarvalho)
