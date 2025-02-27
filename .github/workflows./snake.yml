@@ -1,33 +1,34 @@
-name: Snake Game
+name: Generate Snake
 
 on:
-  # Atualiza a cada 5 horas
+  # Intervalo agendado para rodar (ex.: a cada 5 horas). Ajuste se quiser.
   schedule:
     - cron: "0 */5 * * *"
-  # Permite rodar manualmente (em Actions > Run workflow)
+  
+  # Roda sempre que houver push na branch main (opcional, mas útil para gerar logo).
+  push:
+    branches: [ main ]
+  
+  # Possibilita rodar manualmente pela aba "Actions" > "Run workflow".
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Faz checkout do repositório
+      # 1) Faz checkout do repositório
       - name: Checkout
         uses: actions/checkout@v2
 
-      # Gera o SVG e GIF da “cobra”
+      # 2) Gera o SVG e o GIF da cobra
       - name: Generate Snake
         uses: Platane/snk@master
-        id: snake-gif
         with:
-          github_user_name: igcarvalho          # Seu usuário GitHub
+          github_user_name: igcarvalho   # <-- Troque para seu usuário se for outro
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Verifica o status (opcional)
-      - run: git status
-
-      # Faz commit e push das alterações na pasta dist/
+      # 3) Faz commit e push do que foi gerado (pasta "dist")
       - name: Commit & Push
         run: |
           git config user.name github-actions
@@ -38,7 +39,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Publica os arquivos de dist/ no branch "output"
+      # 4) Publica essa pasta "dist" no branch "output"
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
