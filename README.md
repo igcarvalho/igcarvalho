@@ -1,49 +1,47 @@
-# Nome da Actions:  
-name: Snake Game
+<p align="left">Hi 👋, I'm Igor Carvalho, a Full-Stack Developer from Brazil.</p>
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
-on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+###
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igcarvalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igcarvalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# Regras
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
+###
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+</div>
 
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: igcarvalho #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+###
 
-      - run: git status
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/igcarv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+###
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br clear="both">
 
-          ![Snake animation](https://github.com/igcarvalho/igcarvalho/blob/output/github-contribution-grid-snake.svg)
-         [![readme](https://github-readme-stats.vercel.app/api/pin/?username=igcarvalho&repo=igcarvalho&theme=react)](https://github.com/igcarvalho/igcarvalho)
+<img src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/snake.svg" alt="Snake animation" />
+
+###"# configura-o-perfil-github"  
