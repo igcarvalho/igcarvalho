@@ -1,6 +1,7 @@
 ## Hello, I'm Dev Igor Carvalho, welcome to my profile!
 
-- Desenvolvedor FullStack, Brasil.
+- FullStack Developer, Brazil.
+
 
 <h2 align="center">Stats</h2>
 
