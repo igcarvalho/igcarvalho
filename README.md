@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-  <p>Desenvolvedor Fullstack apaixonado por criar soluções inovadoras 🚀<br>Baseado no Brasil 🇧🇷</p>
+  <p>Fullstack developer passionate about creating innovative solutions  🚀<br>From to Brazil 🇧🇷</p>
 </div>
 
-## <div align="center">⚡ Tecnologias & Ferramentas</div>
+## <div align="center">⚡ Technologies & Tools</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igcarvalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## <div align="center">🤝 Conecte-se Comigo</div>
+## <div align="center">🤝Connect With Me</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/igcarv/">
@@ -56,16 +56,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=igcarvalho&label=Visualizações+de+Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
-</div>
-
-<!-- Animação da cobra - início -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-<!-- Animação da cobra - fim -->
