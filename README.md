@@ -49,9 +49,4 @@
   </a>
 </div>
 
-src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/snake.svg" alt="Snake animation" />
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/igcarvalho/count.svg?"  />
-</div>
-###
+
