@@ -55,12 +55,9 @@
   <img src="https://komarev.com/ghpvc/?username=igcarvalho&label=Visualizações+de+Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
 </div>
 
-<!-- Animação da cobra - início -->
+src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/snake.svg" alt="Snake animation" />
+###
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://profile-counter.glitch.me/igcarvalho/count.svg?"  />
 </div>
-<!-- Animação da cobra - fim -->
+###
