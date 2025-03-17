@@ -1,15 +1,10 @@
 # <div align="center">👨‍💻 Igor Carvalho</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C5FF&center=true&vCenter=true&width=435&lines=FullStack+Developer;React+%7C+Next.js+%7C+Python;Building+digital+solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <p>Desenvolvedor Fullstack apaixonado por criar soluções inovadoras 🚀<br>Baseado no Brasil 🇧🇷</p>
-</div>
-
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 </div>
 
 ## <div align="center">⚡ Tecnologias & Ferramentas</div>
@@ -39,18 +34,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/igcarvalho"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=igcarvalho&theme=radical&title_color=ff3068"></a>
-  <a href="http://www.github.com/igcarvalho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igcarvalho&hide_border=true&layout=compact&theme=radical&title_color=ff3068" /></a>
-</div>
-
-## <div align="center">🏆 Troféus GitHub</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igcarvalho&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Code">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igcarvalho&theme=tokyonight" width="90%" alt="GitHub Activity Graph" />
 </div>
 
 ## <div align="center">🤝 Conecte-se Comigo</div>
@@ -64,12 +48,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac26f-8472-4fdf-a4f2-4afd90464f84.png" width="300" alt="Thanks for visiting">
-</div>
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=igcarvalho&label=Visualizações+de+Perfil&color=ff3068&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=igcarvalho&label=Visualizações+de+Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
 </div>
 
 <!-- Animação da cobra - início -->
