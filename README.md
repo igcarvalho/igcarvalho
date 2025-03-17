@@ -49,12 +49,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=igcarvalho&label=Visualizações+de+Perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
-</div>
-
 src="https://raw.githubusercontent.com/igcarvalho/igcarvalho/output/snake.svg" alt="Snake animation" />
 ###
 <div align="center">
