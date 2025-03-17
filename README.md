@@ -34,7 +34,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igcarvalho&theme=tokyonight" width="90%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igcarvalho&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" width="90%" alt="activity-graph" />
+</div>
+
+## <div align="center">🔥 Streak Stats</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igcarvalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## <div align="center">🤝 Conecte-se Comigo</div>
